@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "QTOCen"]
 	path = QTOCen
 	url = https://github.com/cran/QTOCen
-	shallow = true
-	registered = true
 [submodule "quantoptr"]
 	path = quantoptr
 	url = https://github.com/cran/quantoptr
-	shallow = true
-	registered = true
